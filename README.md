@@ -1,4 +1,4 @@
-# # 3D game using [raylib](https://www.raylib.com/)
+# 3D game using [raylib](https://www.raylib.com/)
 
 ## Quick Start
 
